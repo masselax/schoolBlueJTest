@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ticketautomat
+comment0.text=\r\n\ Ein\ Ticketautomat\ im\ Eingangsbereich\ eines\ Schwimmbads.\ \r\n\ \r\n\ Rechnet\ komplett\ in\ Euros.\ Zahlenformat\:\ double\ \r\n\ \r\n\ @J.Gandlau\r\n\ @2020-11-04\r\n
+comment1.params=
+comment1.target=Ticketautomat()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ticketautomat\r\n
+comment2.params=
+comment2.target=void\ tageskarteKaufen()
+comment2.text=\r\n\ Anzeige\ des\ Preises\ +\ Aufforderung\ Geld\ einzuwerfen.\ \r\n
+comment3.params=euros
+comment3.target=void\ geldEinwerfen(double)
+comment3.text=\r\n\ Zum\ bisher\ eingezahlten\ Geld\ wird\ weiteres\ Geld\ hinzugef\u00FCgt.\ \r\n
+comment4.params=preis
+comment4.target=void\ rueckgeldAusgeben(double)
+comment4.text=\r\n\ R\u00FCckgeld\ wird\ aus\ Differenz\ von\ Kartenpreis\ und\ eingezahltem\ Betrag\r\n\ ausgerechnet\ und\ ausgegeben.\ \r\n
+numComments=5
